@@ -11,7 +11,7 @@ pids
 *.dat
 *.png
 *.heapsnapshot
-*.cpuprofile
+*.cpuprofile 
 *.heapprofile
 *.dylib
 *.so
