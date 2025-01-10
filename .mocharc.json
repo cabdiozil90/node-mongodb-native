@@ -8,7 +8,7 @@
   ],
   "extension": [
     "js",
-    "ts" .
+    "ts"
   ],
   "recursive": true,
   "timeout": 60000,
